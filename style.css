@@ -3,7 +3,8 @@ body {
   font-family: "Courier New", monospace;
   margin: 20px;
   }
-p, ol {
+p, ol, div {
   background-color: rgb(255,255,255);
+  padding: 10px;
 }
   
